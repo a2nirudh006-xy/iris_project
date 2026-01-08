@@ -1,3 +1,4 @@
+<img width="2159" height="1170" alt="image" src="https://github.com/user-attachments/assets/93ae8fb6-a153-4367-b02b-49258bca98c6" />
 # iris_project
 
 ## ✅ README.md (for your Iris Prediction Project)
